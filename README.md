@@ -19,5 +19,5 @@ If you feel like adding them on your own then feel free to do so, do remember to
 
 ## Screenshot
 
-<img src="Security-System/screenshots/ss1.png">
+<img src="screenshots/SS1.png" alt-text="screenshot">
 
